@@ -1,0 +1,41 @@
+#buttonbox{
+    position: absolute;
+    width: 25%;
+    height: 60%;
+    background: rgba(000, 000, 000, 0.5);
+    margin-top: 4.3%;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+.button{
+    width: 180px;
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 8%;
+    color: #003366;
+    font-weight: bold;
+    background-color:white;
+    border-color: #003366;
+}
+#login_box{
+    position: absolute;
+    margin-top: 43%;
+    margin-left: 26%;
+}
+#signup_box{
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 26%;
+}
+#title{
+    position: absolute;
+    margin-left: 28%;
+    margin-top: 12%;
+    font-family: Lucida;
+    font-size: 20px; 
+}
+
+#title{
+    color: white;
+}

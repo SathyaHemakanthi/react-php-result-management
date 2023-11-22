@@ -1,0 +1,87 @@
+.stuProfile {
+  position: absolute;
+  width: 30%;
+  height:70%;
+  background: rgba(000, 000, 000, 0.5);
+  margin-top: 0.5%;
+  margin-left: 35%;
+  border-radius: 10px;
+}
+
+#prof {
+  position: absolute;
+  width: 5%;
+  margin-left: 2%;
+  margin-top: -8.5%;
+}
+
+.wel{
+  padding: 1.5%;
+  text-indent: 1%;
+  background-color: #003366;
+  color: white;
+  font-size: 250%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 8%;
+}
+
+#ho{
+  width: 5%;
+  margin-top: -8.5%;
+  margin-left: 94%;
+  position: absolute;
+}
+.lab{
+  position: absolute;
+  margin-left: 12%;
+  font-size: medium;
+}
+
+.inp{
+  position: absolute;
+  margin-left: 40%;
+  font-size: medium; 
+  border: none;
+  border-radius: 6px; 
+  padding: 1%;
+}
+#role,#in_role{
+  margin-top: 10%;
+}
+#nati,#in_nati{
+  margin-top: 20%;
+}
+#fnam,#in_fnam{
+  margin-top: 30%;
+}
+#lnam,#in_lnam{
+  margin-top: 40%;
+}
+#add,#in_add{
+  margin-top: 50%;
+}
+#num,#in_num{
+  margin-top: 65%;
+}
+#mail,#in_mail{
+  margin-top: 75%;
+}
+#pwd,#in_pwd{
+  margin-top: 85%;
+}
+
+#in_add{
+  height: 8%;
+}
+.btnupdate{
+  position: absolute;
+  margin-top: 97%;
+  margin-left: 62%;
+  border-radius: 6px;
+  color: #003366;
+  font-weight: bold;
+  border-color: #003366;
+  padding: 1.5%;
+  font-size: medium;
+  width: 22%;
+}

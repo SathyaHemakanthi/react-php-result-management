@@ -1,0 +1,62 @@
+.teaIconBox {
+  position: absolute;
+  width: 60%;
+  height: 70%;
+  background: rgba(000, 000, 000, 0.5);
+  margin-top: 1.5%;
+  margin-left: 20%;
+  border-radius: 10px;
+}
+
+.sturesTopic{
+  color: white;
+  margin-top: 3%;
+  font-size: xx-large;
+}
+
+#teaProf,
+#teaLog {
+  width: 5%;
+  position: absolute;
+}
+
+#teaProf {
+  margin-top: 0.7%;
+  margin-left: 86%;
+}
+
+#teaLog {
+  margin-top: 0.7%;
+  margin-left: 93%;
+}
+
+.table {
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 70%;
+  overflow-y: scroll;
+}
+
+table,th,td{
+  border: 1px solid white;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 1%;
+}
+
+.resTable{
+  width: 98%;
+}
+
+#cl1{
+  width: 10%;
+}
+#cl2{
+  width:15%;
+}
+#cl3,#cl4,#cl5,#cl6,#cl7,#cl8,#cl9,#cl10{
+  width: 8.125%;
+}
+#cl11{
+  width:10%;
+}

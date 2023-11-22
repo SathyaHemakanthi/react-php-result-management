@@ -1,0 +1,15 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to top, #0099cc 0%, #99ffcc 100%);
+}
+
+.heading{
+  padding: 1.5%;
+  text-indent: 1%;
+  background-color: #003366;
+  color: white;
+  font-size: 250%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

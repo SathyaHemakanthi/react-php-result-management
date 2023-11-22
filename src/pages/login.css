@@ -1,0 +1,96 @@
+.homeIcon{
+  background-color: #003366;
+  margin-top: 1.75%;
+  height: 13.2%;
+}
+
+#home{
+  width: 5%;
+  margin-top: 0.6%;
+  margin-left: 94%;
+}
+
+#log_box {
+  position: absolute;
+  width: 25%;
+  height: 60%;
+  background: rgba(000, 000, 000, 0.5);
+  margin-top: 5%;
+  margin-left: 35%;
+  border-radius: 10px;
+}
+
+#heading {
+  margin-left: 35%;
+}
+
+#login {
+  color: white;
+  margin-left: 5%;
+}
+
+#full_log_box {
+  width: 45%;
+  height: 80%;
+  position: absolute;
+  background: white;
+  margin-top: 7%;
+  margin-left: 50%;
+  border-radius: 10px;
+}
+
+.log_lb {
+  margin-left: 20%;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.log_input {
+  margin-left: 20%;
+  padding: 3%;
+  border-radius: 5px;
+  border: none;
+  margin-top: 3%;
+  font-size: medium;
+}
+
+.log_teach{
+    margin-left: 15%;
+}
+
+.logbutton{
+    width: 35%;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 3%;
+    color: #003366;
+    font-weight: bold;
+    background-color:white;
+    border-color: #003366;
+    margin-left: 34%;
+    margin-top: 5%;
+}
+#log_Role{
+  margin-top: 2%;
+  position: absolute;
+}
+
+#logJrole{
+  margin-top: 12%;
+}
+
+#log_NIC{
+  margin-top: 5%;
+  position: absolute;
+}
+
+#logNIC{
+  margin-top: 11%;
+  margin-bottom: 5%;
+}
+
+#logPass{
+  margin-top: 4%;
+}
+

@@ -1,0 +1,65 @@
+#stuProf,#stuLog {
+  width: 5%;
+  position: absolute;
+}
+
+#stuProf{
+  margin-top: 2.3%;
+  margin-left:86%;
+}
+
+#stuLog{
+  margin-top: 2.4%;
+  margin-left: 93%;
+}
+
+.stuIconBox {
+  position: absolute;
+  width: 50%;
+  height: 60%;
+  background: rgba(000, 000, 000, 0.5);
+  margin-top: 3.5%;
+  margin-left: 25%;
+  border-radius: 10px;
+}
+
+#viewRes {
+  width: 40%;
+  position: absolute;
+  margin-top: 13%;
+  margin-left: 5%;
+}
+
+.lbRes {
+  color: white;
+  font-size: x-large;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.resTopic{
+  color: white;
+  margin-top: 5%;
+  font-size: xx-large;
+}
+
+.resultSheet{
+  margin-left: 48%;
+  position: absolute;
+  font-size: large;
+  margin-top: 0%;
+  font-weight:600;
+}
+
+.sub1Res,.sub2Res,.sub3Res,.sub4Res,.sub5Res{
+  margin-left: 120%;
+  margin-top: -22%;
+  position: absolute;
+}
+
+.stat1, .stat2, .stat3, .stat4, .stat5{
+  margin-left: 150%;
+  margin-top: -22%;
+  position: absolute;
+}
+
